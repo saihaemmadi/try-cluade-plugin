@@ -1,0 +1,9 @@
+{
+  "name": "ai-governance",
+  "description": "AI governance commands for code review, test generation, and stale branch cleanup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xxx",
+    "email": "xxx@gmail.com"
+  }
+}
