@@ -1,0 +1,28 @@
+{
+  "name": "test-governance",
+  "owner": {
+    "name": "XXX",
+    "email": "XXX@gmail.com"
+  },
+  "metadata": {
+    "description": "AI Governance plugins for Claude Code — code review, test generation, and branch cleanup skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-governance",
+      "source": "./plugins/ai-governance",
+      "description": "AI governance commands for code review, test generation, and stale branch cleanup.",
+      "version": "1.0.0",
+      "keywords": [
+        "governance",
+        "code-review",
+        "testing",
+        "security",
+        "magnolia",
+        "dgf"
+      ],
+      "category": "governance"
+    }
+  ]
+}
